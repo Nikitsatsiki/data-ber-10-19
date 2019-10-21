@@ -58,7 +58,9 @@ LIMIT 5;
 -- 8th exercise
 
 SELECT DISTINCT k_symbol
-FROM bank.`order`;
+FROM bank.`order`
+ORDER BY k_symbol
+LIMIT 1,4;
 
 -- 9th exercise
 
