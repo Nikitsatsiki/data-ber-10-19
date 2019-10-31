@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project: Bike Sharing Network
+# Bike Sharing Network
 *Lena Frommann, Georgios Papadopoulos, Niki Zarucha*
 
 *DATA ft, BER, 10/19*
