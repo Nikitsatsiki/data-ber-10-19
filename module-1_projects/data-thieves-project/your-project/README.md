@@ -15,7 +15,7 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+bla Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
 
 ## Questions & Hypotheses
 What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
