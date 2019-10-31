@@ -36,6 +36,7 @@ This dataset has the following columns: <br/>
 * href
 * id
 * name <br/>
+
 It has the shape (640, 8).
 
 **Population Dataset from Kaggle:** <br/>
@@ -46,7 +47,8 @@ This dataset has the following columns: <br/>
 * Population 
 * Latitude
 * Longitude <br/> 
-It has the shape (3.173.958, 7)
+
+It has the shape (3.173.958, 7).
 
 ## Database
 Our Database, the **Bake Sharing Network** has the following columns:  <br/>
@@ -60,7 +62,7 @@ Our Database, the **Bake Sharing Network** has the following columns:  <br/>
 * Longitude
 * Population
 
-Its shape is (646, 9)
+It has the shape (646, 9).
 
 ## Workflow
 1. Think of possible question to be resolved using data. <br/>
@@ -70,6 +72,7 @@ Its shape is (646, 9)
 5. Merge our available data into one dataframe.<br/>
 6. Make conclusions and plots out of the new dataframe.<br/>
 7. Export everything to one csv file.<br/>
+8. Visualize the bike sharing stations on a world map.
 
 ## Organization
 Mostly we tried to figure out things each on the own computer and then come up with a joint solution.<br/>
@@ -97,4 +100,3 @@ World Cities Database<br/>
 A database of coordinates for countries and cities <br/>
 https://www.kaggle.com/max-mind/world-cities-database
 
-**TBD: maybe adjust everything (notebooks, links and descriptions) with the maps and new json file of berlin radwege **
