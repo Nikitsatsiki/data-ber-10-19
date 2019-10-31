@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Title of My Project: Bike Sharing Network
 *Lena Frommann, Georgios Papadopoulos, Niki Zarucha*
 
 *DATA ft, BER, 10/19*
@@ -49,10 +49,18 @@ This dataset has the following columns: <br/>
 It has the shape (3.173.958, 7)
 
 ## Database
-Our Database, the **Bake Sharing Network** has the following columns: 
+Our Database, the **Bake Sharing Network** has the following columns:  <br/>
+* Company
+* href
+* id
+* Name
+* City
+* Country
+* Latitude
+* Longitude
+* Population
 
-**TBD**, because it's not yet final.
-Its shape ist **TBD**
+Its shape is (646, 9)
 
 ## Workflow
 1. Think of possible question to be resolved using data. <br/>
@@ -69,7 +77,7 @@ Towards the end everyone would adopt different tasks and we shared the desks and
 Our repository consists of the Jupyter Notebooks, we worked on and a G-Slides presentation. The cleaned csv file and our data will be also found here. ( **TBD** will it?)
 
 What does your repository look like? Explain your folder and file structure.
-**TBD** 
+We have a joint Jupyter Notebook, called Bike_Sharing_Network.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
