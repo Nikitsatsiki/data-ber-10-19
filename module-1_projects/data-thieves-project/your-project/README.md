@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Lena, Georgios, Niki*
 
-*[Your Cohort, Campus & Date]*
+*DATA, BER, 10/19*
 
 ## Content
 - [Project Description](#project-description)
@@ -37,6 +37,15 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository]:
+
+[Slides]:   
+
+Used API: 
+CityBikes API Documentation
+http://api.citybik.es/v2/
+
+Used Dataset: 
+World Cities Database
+A database of coordinates for countries and cities 
+https://www.kaggle.com/max-mind/world-cities-database
