@@ -27,7 +27,7 @@ The sources used are attached below.<br/>
 We used an open API and a csv-Datafile from kaggle.<br/>
 While selecting data, it was important to us, that geographical data is provided, to be able, to make further investigations based on this in the future. <br/>
 **Bike Sharing API:** <br/>
-This dataset had the following columns: <br/>
+This dataset has the following columns: <br/>
 * city
 * country
 * latitude
@@ -38,29 +38,47 @@ This dataset had the following columns: <br/>
 * name <br/>
 It has the shape (640, 8).
 
-**Population Dataset:** 
-      
-
 **Population Dataset from Kaggle:** <br/>
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+This dataset has the following columns: <br/> 
+* Country
+* AccentCity
+* Region
+* Population 
+* Latitude
+* Longitude <br/> 
+It has the shape (3.173.958, 7)
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other?
+Our Database, the **Bake Sharing Network** has the following columns: 
+
+**TBD**, because it's not yet final.
+Its shape ist **TBD**
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+1. Think of possible question to be resolved using data. <br/>
+2. Find out, what data is available for this purpose and adjust the questions accordingly.<br/>
+3. Decide, which Data will be used and what are the relevant columns and rows.<br/>
+4. Clean the data and keep columns, that serve our purpose.<br/>
+5. Merge our available data into one dataframe.<br/>
+6. Make conclusions and plots out of the new dataframe.<br/>
+7. Export everything to one csv file.<br/>
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+Mostly we tried to figure out things each on the own computer and then come up with a joint solution.<br/>
+Towards the end everyone would adopt different tasks and we shared the desks and a Slack Channel, to communicate throughout all the project.
+Our repository consists of the Jupyter Notebooks, we worked on and a G-Slides presentation. The cleaned csv file and our data will be also found here. ( **TBD** will it?)
 
 What does your repository look like? Explain your folder and file structure.
+**TBD** 
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository]:
+[Repository]: <br/>
+https://github.com/Nikitsatsiki/data-ber-10-19/tree/master/module-1_projects/data-thieves-project
 
 [Slides]:   
+**TBD** <br/>
 
 Used API: <br/>
 CityBikes API Documentation<br/>
