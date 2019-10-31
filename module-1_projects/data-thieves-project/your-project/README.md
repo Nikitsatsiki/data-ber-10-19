@@ -88,3 +88,5 @@ Used Dataset: <br/>
 World Cities Database<br/>
 A database of coordinates for countries and cities <br/>
 https://www.kaggle.com/max-mind/world-cities-database
+
+**TBD: maybe adjust everything (notebooks, links and descriptions) with the maps and new json file of berlin radwege **
