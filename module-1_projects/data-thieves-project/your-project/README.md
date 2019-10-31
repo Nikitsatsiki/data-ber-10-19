@@ -30,13 +30,15 @@ While selecting data, it was important to us, that geographical data is provided
 This dataset had the following columns: <br/>
 * city
 * country
-*latitude
-*longitude
-*company
-*href
-*id
-*name
+* latitude
+* longitude
+* company
+* href
+* id
+* name <br/>
+It has the shape (640, 8).
 
+**Population Dataset:** 
       
 
 **Population Dataset from Kaggle:** <br/>
