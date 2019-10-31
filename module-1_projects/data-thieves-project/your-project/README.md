@@ -28,8 +28,8 @@ We used an open API and a csv-Datafile from kaggle.<br/>
 While selecting data, it was important to us, that geographical data is provided, to be able, to make further investigations based on this in the future. <br/>
 **Bike Sharing API:** <br/>
 This dataset had the following columns: <br/>
-*city
-*country
+* city
+* country
 *latitude
 *longitude
 *company
