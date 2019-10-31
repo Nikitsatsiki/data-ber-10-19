@@ -24,6 +24,22 @@ Premirilary, we assumed, that it is possible, that the more populated cities hav
 
 ## Dataset
 The sources used are attached below.<br/>
+We used an open API and a csv-Datafile from kaggle.<br/>
+While selecting data, it was important to us, that geographical data is provided, to be able, to make further investigations based on this in the future. <br/>
+**Bike Sharing API:** <br/>
+This dataset had the following columns: <br/>
+*city
+*country
+*latitude
+*longitude
+*company
+*href
+*id
+*name
+
+      
+
+**Population Dataset from Kaggle:** <br/>
 What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
 
 ## Database
