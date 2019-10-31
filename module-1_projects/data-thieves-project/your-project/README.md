@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*Lena, Georgios, Niki*
+*Lena Frommann, Georgios Papadopoulos, Niki Zarucha*
 
 *DATA, BER, 10/19*
 
