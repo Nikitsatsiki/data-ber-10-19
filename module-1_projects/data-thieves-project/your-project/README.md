@@ -15,12 +15,15 @@
 - [Links](#links)
 
 ## Project Description
-We chose to review bike sharing options in different cities worldwide. We therefore considered the companies 
+We chose to review bike sharing options in different cities worldwide. We therefore considered the city, in which the companies are present and with another, much bigger dataframe, we managed to add additional information to the previous one.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+We want to display the bike sharing companies which are the most present with their business.<br/>
+We want to figure out, which cities have the most bike sharing opportunities and if those cities are the ones with the highest population density.<br/>
+Premirilary, we assumed, that it is possible, that the more populated cities have less options, because it also depends on the infrastructure, the city offers for bicycles. So it could be, that they can't be used everywhere in high intensity.
 
 ## Dataset
+The sources used are attached below.<br/>
 What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
 
 ## Database
@@ -41,11 +44,11 @@ Include links to your repository, slides and kanban board. Feel free to include 
 
 [Slides]:   
 
-Used API: 
-CityBikes API Documentation
+Used API: <br/>
+CityBikes API Documentation<br/>
 http://api.citybik.es/v2/
 
-Used Dataset: 
-World Cities Database
-A database of coordinates for countries and cities 
+Used Dataset: <br/>
+World Cities Database<br/>
+A database of coordinates for countries and cities <br/>
 https://www.kaggle.com/max-mind/world-cities-database
