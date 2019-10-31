@@ -3,7 +3,7 @@
 # Title of My Project
 *Lena Frommann, Georgios Papadopoulos, Niki Zarucha*
 
-*DATA, BER, 10/19*
+*DATA ft, BER, 10/19*
 
 ## Content
 - [Project Description](#project-description)
