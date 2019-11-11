@@ -36,7 +36,8 @@ The dataset 'EarthQuakes in Greece.csv' has the following columns: <br/>
 * MAGNITUDE (Richter)
 <br/>
 It has the shape (256655, 8).<br/>
-
+<br/>
+<br/>
 The dataset 'Major EarthQuakes in Greece.csv' has the following columns: <br/>   
 * Year
 * Month
@@ -48,7 +49,7 @@ The dataset 'Major EarthQuakes in Greece.csv' has the following columns: <br/>
 * MAGNITUDE (Richter)
 <br/>
 It has the shape (1173, 8).<br/>
-
+<br/>
 ## Workflow
 1. Think of possible question to be resolved using data. <br/>
 2. Find out, which data is available for this purpose and adjust the questions accordingly.<br/>
