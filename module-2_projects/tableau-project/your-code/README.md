@@ -74,4 +74,5 @@ Our repository includes:
 ## Links
 Used Dataset: <br/>
 https://www.kaggle.com/astefopoulos/earthquakes-in-greece-19012018
-
+My Tableau Story on Tableau Public: <br/>
+https://public.tableau.com/profile/niki4919#!/vizhome/EARTHQUAKES_15734291584760/EARTHQUAKES
