@@ -65,8 +65,7 @@ Repository includes:
 * README.md file
 
 ## Links
-[Used Dataset:](https://www.google.com)
-Used Dataset: <br/>
-https://www.kaggle.com/astefopoulos/earthquakes-in-greece-19012018 <br/>
-My Tableau Story on Tableau Public: <br/>
-https://public.tableau.com/profile/niki4919#!/vizhome/EARTHQUAKES_15734291584760/EARTHQUAKES
+[Used Dataset: ](https://www.kaggle.com/astefopoulos/earthquakes-in-greece-19012018) <br/>
+[My Tableau Story on Tableau Public: ](https://public.tableau.com/profile/niki4919#!/vizhome/EARTHQUAKES_15734291584760/EARTHQUAKES
+) <br/>
+
