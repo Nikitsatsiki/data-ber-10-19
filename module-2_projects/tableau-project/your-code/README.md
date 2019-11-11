@@ -34,6 +34,7 @@ The dataset 'EarthQuakes in Greece.csv' has the following columns: <br/>
 * LATATITUDE (N)
 * LONGITUDE (E)
 * MAGNITUDE (Richter) <br/>
+<br/>
 It has the shape (256655, 8).<br/>
 <br/>
  
@@ -46,6 +47,7 @@ The dataset 'Major EarthQuakes in Greece.csv' has the following columns: <br/>
 * LATATITUDE (N)
 * LONGITUDE (E)
 * MAGNITUDE (Richter) <br/>
+<br/>
 It has the shape (1173, 8).<br/>
 
 ## Workflow
