@@ -37,7 +37,7 @@ The dataset 'EarthQuakes in Greece.csv' has the following columns: <br/>
 <br/>
 It has the shape (256655, 8).<br/>
 <br/>
-<br/>
+ 
 The dataset 'Major EarthQuakes in Greece.csv' has the following columns: <br/>   
 * Year
 * Month
