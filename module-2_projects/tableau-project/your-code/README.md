@@ -53,26 +53,20 @@ It has the shape (1173, 8).<br/>
 1. Think of possible question to be resolved using data. <br/>
 2. Find out, which data is available for this purpose and adjust the questions accordingly.<br/>
 3. Decide, which data will be used and chose the relevant colums and rows.<br/>
-4. Clean the data and keep columns, that serve our purpose.<br/>
-5. Merge our available data into one dataframe.<br/>
-6. Make conclusions and plots out of the new dataframe.<br/>
-7. Export everything to one csv file.<br/>
-8. Rename csv file and read it again for further visualization. <br/>
-9. Visualize the bike sharing providers on an interactive world map.
-
-## Organization
-We tried to distribute tasks beforehand which we defined through a manual kanban board. Mostly each of us worked individually on the tasks. However, we performed the merge all together.<br/>
-In the end we worked all together on the final presentation and the jupyter file. <br/>
-We shared the desks and a Slack Channel, to communicate throughout all the project. <br/>
-Our repository includes:
-* Jupyter Notebook file
-* cleaned csv file
-* renamed cleaned csv file
-* world map html link
+4. Clean the data in Pandas and keep columns, that serve our purpose and export as csv.<br/>
+5. Import everything into Tableau, join the two dataframes.<br/>
+6. Make conclusions and worksheets out of the new dataframe.<br/>
+7. Design a story and upload.<br/>
+ 
+Repository includes:
+* Jupyter Notebook files
+* cleaned csv files
+* Link to Tableau Story
 * README.md file
 
 ## Links
+[Used Dataset:](https://www.google.com)
 Used Dataset: <br/>
-https://www.kaggle.com/astefopoulos/earthquakes-in-greece-19012018
+https://www.kaggle.com/astefopoulos/earthquakes-in-greece-19012018 <br/>
 My Tableau Story on Tableau Public: <br/>
 https://public.tableau.com/profile/niki4919#!/vizhome/EARTHQUAKES_15734291584760/EARTHQUAKES
