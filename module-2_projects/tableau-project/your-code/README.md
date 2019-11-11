@@ -57,7 +57,7 @@ It has the shape (1173, 8).<br/>
 4. Clean the data in Pandas and keep columns, that serve our purpose and export as csv.<br/>
 5. Import everything into Tableau, join the two dataframes.<br/>
 6. Make conclusions and worksheets out of the new dataframe.<br/>
-7. Design a story and upload.<br/>
+7. Design a Tableau story and upload it to Tableau Public.<br/>
  
 Repository includes:
 * Jupyter Notebook files
