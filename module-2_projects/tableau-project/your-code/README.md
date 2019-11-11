@@ -15,7 +15,7 @@
 - [Links](#links)
 
 ## Project Description
-I chose to review earthquakes in Greece over more than 100 years. I therefor considered their strength (Magnitude on Richter scale), and the number of their occurences over all the time. I examined, how it is distributed.
+I chose to review earthquakes in Greece over more than 100 years. I therefore considered their strength (Magnitude on Richter scale), and the number of their occurences over all the time. I examined, how it is distributed.
 
 ## Questions & Hypotheses
 Can a pattern for occurences of earthquakes be found? <br/>
