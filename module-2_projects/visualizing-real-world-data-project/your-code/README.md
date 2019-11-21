@@ -22,6 +22,7 @@ Therefore we will examine the rental prices, but also other properties like the 
 construction, the total number of rooms and much more. <br/>
 We assume, that the big cities, like Berlin and Hamburg are more expensive. This can be visible, since they are also federal states themselves.
 Comparing them to other federal states of Germany, which have a bigger area, but a smaller density of population could show us, that Berlin and Hamburg are expensive.<br/>
+We assume that the rental prices are more linked to the location than to the overall condition of the flat.
 
 
 ## Dataset
