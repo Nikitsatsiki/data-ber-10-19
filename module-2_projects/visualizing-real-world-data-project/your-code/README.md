@@ -110,6 +110,6 @@ Our repository includes:
 [Slides]()  
 **TBD** <br/>
 
-[Used Dataset - Apartment rental offers in Germany](https://www.kaggle.com/corrieaar/apartment-rental-offers-in-germany) <br/>
+[Used Dataset - Apartment Rental Offers in Germany](https://www.kaggle.com/corrieaar/apartment-rental-offers-in-germany) <br/>
 
 
