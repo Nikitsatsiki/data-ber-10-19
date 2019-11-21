@@ -20,10 +20,9 @@ We chose to review Apartment Rental Offers in Germany. We found this dataset on 
 We want to display the differences of the offers in the federal states of Germany.<br/>
 Therefore, we will examine the rental prices, but also other properties like the service charge, the living space, the year of 
 construction, the total number of rooms and much more. <br/>
-We assume, that the big cities, like Berlin and Hamburg are more expensive. This can be visible, since they are also federal states themselves.
-Comparing them to other federal states of Germany, which have a bigger area, but a smaller density of population could show us, that Berlin and Hamburg are expensive.<br/>
+We assume, that the big cities, like Berlin and Hamburg are more expensive. This can be visible, since they are also federal states themselves. <br/>
+Comparing them to other federal states of Germany, which have a bigger area, but a smaller density of population could show us, that Berlin and Hamburg are expensive. <br/>
 We assume that the rental prices are more linked to the location than to the overall condition of the flat.
-
 
 ## Dataset
 The source used is attached below.<br/>
@@ -87,16 +86,16 @@ It has the shape (198.379, 48).
 
 ## Workflow
 1. Think of possible question to be resolved using data. <br/>
-2. Find out, which data is available for this purpose and adjust the questions accordingly.<br/>
-3. Decide, which data will be used and chose the relevant colums and rows.<br/>
-4. Clean the data and keep columns, that serve our purpose.<br/>
-5. Add new columns to answer our questions and arrange them together. <br/>
+2. Find out, which data is available for this purpose and adjust the questions accordingly. <br/>
+3. Decide, which data will be used and chose the relevant colums and rows. <br/>
+4. Clean the data and keep columns, that serve our purpose. <br/>
+5. Add new columns to answer our questions and arrange the dataframe. <br/>
 6. Make conclusions and plots.<br/>
 7. Review our assumptions. <br/>
-8. Export plots, prepare googleslides and Jupyter Notebooks.
+8. Export plots, prepare GoogleSlides and Jupyter Notebooks for the upload.
 
 ## Organization
-We tried to distribute tasks beforehand which we defined through a manual kanban board. Mostly each of us worked individually on the tasks. However, we performed the merge all together.<br/>
+We tried to distribute tasks beforehand which we defined through a manual kanban board. Mostly each of us worked individually on the tasks. However, we performed the merge all together. <br/>
 In the end we worked all together on the final presentation and the jupyter file. <br/>
 We shared the desks and a Slack Channel, to communicate throughout all the project. <br/>
 Our repository includes:
