@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Apartment Rental Offers in Germany
-*Jin Oh Kim, Niki Zarucha*
+*Niki Zarucha, Jin Oh Kim*
 
 *DATA ft, BER, 10/19*
 
