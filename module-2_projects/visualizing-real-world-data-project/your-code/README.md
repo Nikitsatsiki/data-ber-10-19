@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Bike Sharing Network
+# Apartment Rental Offers in Germany
 *Jin Oh Kim, Niki Zarucha*
 
 *DATA ft, BER, 10/19*
@@ -104,13 +104,11 @@ Our repository includes:
 
 ## Links
 
-[Repository]: <br/>
-https://github.com/Nikitsatsiki/data-ber-10-19/tree/master/module-2_projects/visualizing-real-world-data-project <br/>
+[Repository](https://github.com/Nikitsatsiki/data-ber-10-19/tree/master/module-2_projects/visualizing-real-world-data-project) <br/>
 
-[Slides]:   
+[Slides]():   
 **TBD** <br/>
 
-Used Dataset: <br/>
-Apartment rental offers in Germany<br/>
-https://www.kaggle.com/corrieaar/apartment-rental-offers-in-germany
+[Used Dataset - Apartment rental offers in Germany](https://www.kaggle.com/corrieaar/apartment-rental-offers-in-germany) <br/>
+
 
