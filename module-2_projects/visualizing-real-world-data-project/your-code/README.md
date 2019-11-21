@@ -18,7 +18,7 @@ We chose to review Apartment Rental Offers in Germany. We found this dataset on 
 
 ## Questions & Hypotheses
 We want to display the differences of the offers in the federal states of Germany.<br/>
-Therefore we will examine the rental prices, but also other properties like the service charge, the living space, the year of 
+Therefore, we will examine the rental prices, but also other properties like the service charge, the living space, the year of 
 construction, the total number of rooms and much more. <br/>
 We assume, that the big cities, like Berlin and Hamburg are more expensive. This can be visible, since they are also federal states themselves.
 Comparing them to other federal states of Germany, which have a bigger area, but a smaller density of population could show us, that Berlin and Hamburg are expensive.<br/>
@@ -30,7 +30,7 @@ The source used is attached below.<br/>
 It is a csv-Datafile from Kaggle.<br/>
 While selecting data, it was important to us, that we get numerical data, in order to be able to visualize our findings. <br/>
 **Apartment rental offers in Germany:** <br/>
-This Dataset is a Webscraping of the URL 'www.immobilienscount24.de', which was done on three different days over a timespan of 1,5 years.<br/>
+This Dataset is a Webscraping of the URL 'www.immobilienscount24.de', which was done on three different days over a time span of 1,5 years.<br/>
 This dataset has the following columns: <br/>
 * regio1
 * serviceCharge
