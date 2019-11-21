@@ -106,7 +106,7 @@ Our repository includes:
 
 [Repository](https://github.com/Nikitsatsiki/data-ber-10-19/tree/master/module-2_projects/visualizing-real-world-data-project) <br/>
 
-[Slides]():   
+[Slides]()  
 **TBD** <br/>
 
 [Used Dataset - Apartment rental offers in Germany](https://www.kaggle.com/corrieaar/apartment-rental-offers-in-germany) <br/>
