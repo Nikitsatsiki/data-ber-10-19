@@ -92,7 +92,7 @@ It has the shape (198.379, 48).
 4. Clean the data and keep columns, that serve our purpose.<br/>
 5. Add new columns to answer our questions and arrange them together. <br/>
 6. Make conclusions and plots.<br/>
-7. Revier our assumptions. <br/>
+7. Review our assumptions. <br/>
 8. Export plots, prepare googleslides and Jupyter Notebooks.
 
 ## Organization
